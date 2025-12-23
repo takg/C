@@ -11,7 +11,10 @@ The repository includes programs related to:
 
 - Basics
   - Hello World
-  - [Data types and sizes](https://github.com/takg/C/blob/main/src/sizeof_datatype.c)
+    - [hello_world.c](https://github.com/takg/C/blob/main/src/hello_world.c)
+  - Data types and sizes
+    - [sizeof_datatype.c](https://github.com/takg/C/blob/main/src/sizeof_datatype.c)
+    - [limits_datatype.c](https://github.com/takg/C/blob/main/src/limits_datatype.c)
   - Input / Output
 - Control Structures
   - if / switch

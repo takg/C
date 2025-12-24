@@ -27,8 +27,11 @@ The repository includes programs related to:
   - Pointer arithmetic
   - Pointers and arrays
 - Structures & Unions
+  - Structure padding [structure_padding.c](https://github.com/takg/C/blob/main/src/structure_padding.c)
 - Memory Management
   - `malloc`, `calloc`, `realloc`, `free`
+  - Little Endian vs Big Endian [little_endian_or_big_endian.c](https://github.com/takg/C/blob/main/src/little_endian_or_big_endian.c)
+  - OS 32 vs 64 bit [os_32_or_64_bit.c](https://github.com/takg/C/blob/main/src/os_32_or_64_bit.c)
 - File Handling
 - Bit Manipulation
 - Miscellaneous Utilities

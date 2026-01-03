@@ -43,6 +43,7 @@ The repository includes programs related to:
   - OS 32 vs 64 bit
     -  [os_32_or_64_bit.c](https://github.com/takg/C/blob/main/src/os_32_or_64_bit.c)
 - File Handling
+  - [basic_file_operations.c](https://github.com/takg/C/blob/main/src/basic_file_operations.c)
 - Bit Manipulation
 - Miscellaneous Utilities
 

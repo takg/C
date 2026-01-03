@@ -45,6 +45,7 @@ The repository includes programs related to:
 - File Handling
   - [basic_file_operations.c](https://github.com/takg/C/blob/main/src/basic_file_operations.c)
 - Bit Manipulation
+  - [basic_bit_manipulation.c](https://github.com/takg/C/blob/main/src/basic_bit_manipulation.c)
 - Miscellaneous Utilities
 
 > Each program is written to be **simple, readable, and standards-compliant**.

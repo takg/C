@@ -30,7 +30,7 @@ The repository includes programs related to:
   - Structure padding
     - [structure_padding.c](https://github.com/takg/C/blob/main/src/structure_padding.c)
 - Memory Management
-  - `malloc`, `calloc`, `realloc`, `free`
+  - `malloc`, `calloc`, `realloc`, `free` [memory_allocation.c](https://github.com/takg/C/blob/main/src/memory_allocation.c)
   - Little Endian vs Big Endian
     - [little_endian_or_big_endian.c](https://github.com/takg/C/blob/main/src/little_endian_or_big_endian.c)
   - OS 32 vs 64 bit

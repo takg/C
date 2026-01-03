@@ -27,6 +27,7 @@ The repository includes programs related to:
   - Recursion
     - [recursion_list.c](https://github.com/takg/C/blob/main/src/recursion_list.c)
 - Arrays & Strings
+  - [array_strings.c](https://github.com/takg/C/blob/main/src/array_strings.c)
 - Pointers
   - Pointer arithmetic
   - Pointers and arrays

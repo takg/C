@@ -21,7 +21,7 @@ The repository includes programs related to:
   - loops (for, while, do-while)
 - Functions
   - Call by value / reference
-  - Recursion
+  - Recursion [recursion_list.c](https://github.com/takg/C/blob/main/src/recursion_list.c)
 - Arrays & Strings
 - Pointers
   - Pointer arithmetic

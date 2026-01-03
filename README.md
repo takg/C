@@ -17,9 +17,10 @@ The repository includes programs related to:
     - [limits_datatype.c](https://github.com/takg/C/blob/main/src/limits_datatype.c)
   - Input / Output
     - [basic_input_output.c](https://github.com/takg/C/blob/main/src/basic_input_output.c)
-- Control Structures
+- Control Structures 
   - if / switch
   - loops (for, while, do-while)
+  - [basic_control_structures.c](https://github.com/takg/C/blob/main/src/basic_control_structure.c)
 - Functions
   - Call by value / reference
   - Recursion [recursion_list.c](https://github.com/takg/C/blob/main/src/recursion_list.c)

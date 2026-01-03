@@ -23,7 +23,9 @@ The repository includes programs related to:
   - [basic_control_structures.c](https://github.com/takg/C/blob/main/src/basic_control_structure.c)
 - Functions
   - Call by value / reference
-  - Recursion [recursion_list.c](https://github.com/takg/C/blob/main/src/recursion_list.c)
+    - [call_by_value_vs_reference.c](https://github.com/takg/C/blob/main/src/call_by_value_vs_reference.c)
+  - Recursion
+    - [recursion_list.c](https://github.com/takg/C/blob/main/src/recursion_list.c)
 - Arrays & Strings
 - Pointers
   - Pointer arithmetic

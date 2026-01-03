@@ -16,6 +16,7 @@ The repository includes programs related to:
     - [sizeof_datatype.c](https://github.com/takg/C/blob/main/src/sizeof_datatype.c)
     - [limits_datatype.c](https://github.com/takg/C/blob/main/src/limits_datatype.c)
   - Input / Output
+    - [basic_input_output.c](https://github.com/takg/C/blob/main/src/basic_input_output.c)
 - Control Structures
   - if / switch
   - loops (for, while, do-while)

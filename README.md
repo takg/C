@@ -32,6 +32,7 @@ The repository includes programs related to:
   - Pointer arithmetic
     - [pointer_arithmentic.c](https://github.com/takg/C/blob/main/src/pointer_arithmetic.c)
   - Pointers and arrays
+    - [pointer_arrays.c](https://github.com/takg/C/blob/main/src/pointer_arrays.c)
 - Structures & Unions
   - Structure padding
     - [structure_padding.c](https://github.com/takg/C/blob/main/src/structure_padding.c)
